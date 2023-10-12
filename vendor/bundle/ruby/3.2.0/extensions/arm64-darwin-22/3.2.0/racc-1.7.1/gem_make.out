@@ -1,0 +1,22 @@
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/ryoyaokuma/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-j63vvb sitelibdir\=./.gem.20231012-46286-j63vvb clean
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-j63vvb sitelibdir\=./.gem.20231012-46286-j63vvb
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-j63vvb sitelibdir\=./.gem.20231012-46286-j63vvb install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231012-46286-j63vvb/racc
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-j63vvb sitelibdir\=./.gem.20231012-46286-j63vvb clean

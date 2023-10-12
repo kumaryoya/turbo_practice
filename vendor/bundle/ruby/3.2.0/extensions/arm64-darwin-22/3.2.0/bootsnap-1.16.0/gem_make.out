@@ -1,0 +1,20 @@
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/ryoyaokuma/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-uhcu4f sitelibdir\=./.gem.20231012-46286-uhcu4f clean
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-uhcu4f sitelibdir\=./.gem.20231012-46286-uhcu4f
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-uhcu4f sitelibdir\=./.gem.20231012-46286-uhcu4f install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231012-46286-uhcu4f/bootsnap
+
+current directory: /Users/ryoyaokuma/workspace/turbo_practice/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231012-46286-uhcu4f sitelibdir\=./.gem.20231012-46286-uhcu4f clean
